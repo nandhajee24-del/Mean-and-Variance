@@ -49,11 +49,11 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 
-NAME:NANDHA A
+NAME : NANDHA A
 
-REG NO:212225040271
+REG NO : 212225040271
 
-SLOT NAME: T1-I5
+SLOT NAME : T1-I5
 ```py
 import numpy as np
 data=[int(i) for i in input("Enter Arrival data :").split()]
